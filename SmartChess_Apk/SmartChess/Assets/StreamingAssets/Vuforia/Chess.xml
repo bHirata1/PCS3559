@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="Peao8_2" size="1.000000 1.000000" />
+    <ImageTarget name="Peao7_2" size="1.000000 1.000000" />
+    <ImageTarget name="Peao6_2" size="1.000000 1.000000" />
+    <ImageTarget name="Peao5_2" size="1.000000 1.000000" />
+    <ImageTarget name="Peao4_2" size="1.000000 1.000000" />
+    <ImageTarget name="Peao3_2" size="1.000000 1.000000" />
+    <ImageTarget name="Peao2_2" size="1.000000 1.000000" />
+    <ImageTarget name="Torre2_2" size="1.000000 1.000000" />
+    <ImageTarget name="Cavalo2_2" size="1.000000 1.000000" />
+    <ImageTarget name="Bispo2_2" size="1.000000 1.000000" />
+    <ImageTarget name="Torre2" size="1.000000 1.000000" />
+    <ImageTarget name="Peao8" size="1.000000 1.000000" />
+    <ImageTarget name="Peao7" size="1.000000 1.000000" />
+    <ImageTarget name="Peao6" size="1.000000 1.000000" />
+    <ImageTarget name="Peao5" size="1.000000 1.000000" />
+    <ImageTarget name="Peao4" size="1.000000 1.000000" />
+    <ImageTarget name="Peao3" size="1.000000 1.000000" />
+    <ImageTarget name="Peao2" size="1.000000 1.000000" />
+    <ImageTarget name="Cavalo2" size="1.000000 1.000000" />
+    <ImageTarget name="Bispo2" size="1.000000 1.000000" />
     <ImageTarget name="Torre_2" size="1.000000 1.000000" />
     <ImageTarget name="Rei_2" size="1.000000 1.000000" />
     <ImageTarget name="Rainha_2" size="1.000000 1.000000" />
@@ -14,6 +34,5 @@
     <ImageTarget name="Cavalo" size="1.000000 1.000000" />
     <ImageTarget name="Bispo" size="1.000000 1.000000" />
     <ImageTarget name="Target_2" size="0.020000 0.014981" />
-    <ImageTarget name="Target_1" size="0.020000 0.014030" />
   </Tracking>
 </QCARConfig>
